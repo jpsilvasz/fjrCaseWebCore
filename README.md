@@ -1,0 +1,1 @@
+library fjrcase_flutterweb_core;
